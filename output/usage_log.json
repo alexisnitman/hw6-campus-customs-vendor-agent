@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2026-10-18T22:27:09.072803Z",
+    "document": "data/practice_docs/p01_bluehen_quote.html",
+    "model": "gpt-6-luna",
+    "input_tokens": 21274,
+    "output_tokens": 234,
+    "total_tokens": 21508,
+    "cost_dollars": 0.0022444
+  },
+  {
+    "time": "2026-10-18T22:27:13.641955Z",
+    "document": "data/practice_docs/p08_chapelst_email.eml",
+    "model": "gpt-6-luna",
+    "input_tokens": 21034,
+    "output_tokens": 198,
+    "total_tokens": 21232,
+    "cost_dollars": 0.0022024
+  }
+]
